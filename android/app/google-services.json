@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944463542324",
+    "project_id": "flash-chat-d8bac",
+    "storage_bucket": "flash-chat-d8bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944463542324:android:bf7eb761ad556f276a7261",
+        "android_client_info": {
+          "package_name": "com.Yashanki.flash_chat_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944463542324-9fuhlgppvg5if621drso0uoh5fji7p9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuC2CtF4I9WfyaTnj92a9Z5sH6guaxYwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944463542324-9fuhlgppvg5if621drso0uoh5fji7p9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
